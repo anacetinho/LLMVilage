@@ -1,4 +1,4 @@
-# Village AI Demo - Pokemon-Style Top-Down Game
+# VIBE CODED - Village AI Demo - Pokemon-Style Top-Down Game
 
 A top-down village game with AI-powered villagers that can respond to player interactions using a local language model.
 
